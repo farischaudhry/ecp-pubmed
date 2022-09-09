@@ -1,0 +1,4 @@
+                                                                                           Title         Lead Author      PMID                            DOI
+0  Refractory pemphigus vulgaris and high-intensity extracorporeal photopheresis: A case report.  Castillo-Aleman YM  36052754             10.1111/phpp.12834
+1              Tele-ECP: A feasible telemedicine-based approach to extracorporeal photopheresis.  Castillo-Aleman YM  36046942      10.1177/1357633X221122865
+2           Extracorporeal photopheresis for the treatment of chronic graft versus host disease.             Kansu E  35802815  10.1080/16078454.2022.2095884
