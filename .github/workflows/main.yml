@@ -2,6 +2,7 @@ name: py
 on:
   schedule:
     - cron: "0 8 * * MON" #runs at 08:00 UTC every Monday
+  workflow_call:
 jobs:
   build:
     runs-on: ubuntu-latest
